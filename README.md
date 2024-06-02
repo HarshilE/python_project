@@ -1,4 +1,4 @@
-# python_project
+# Python_project
 
 Project Outline: E-commerce Website with Microstores
 
